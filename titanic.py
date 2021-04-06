@@ -19,8 +19,8 @@ pd.set_option('mode.chained_assignment', None)
 
 
 #Reading the given data
-train=pd.read_csv('train.csv')
-test=pd.read_csv('test.csv')
+train=pd.read_csv('DATA/train.csv')
+test=pd.read_csv('DATA/test.csv')
 
 
 # In[3]:
